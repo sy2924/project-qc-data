@@ -2099,7 +2099,7 @@ N＜2张，不合格
 三、申请单审核如有以下情况，反馈并暂停：
 1、访视节点不是PROSPECTIVEAGASLIDES或PROSPECTIVEAGASLIDESTOBR
 2、癌种非肺癌
-3、是否出具报告：否
+3、是否出具报告：是
 四、无需反馈情况：
 1、申请单RequisitionCompletedTime：00:01，系统默认不录入；
 2、申请单SpecimenType：UnstainedSlides，系统默认录入为切片","1、需双提
@@ -2115,7 +2115,7 @@ N＜2张，不合格
 三、申请单审核如有以下情况，反馈并暂停：
 1、访视节点不是PROSPECTIVEAGASLIDES或PROSPECTIVEAGASLIDESTOBR
 2、癌种非肺癌
-3、是否出具报告：否
+3、是否出具报告：是
 四、无需反馈情况：
 1、申请单RequisitionCompletedTime：00:01，系统默认不录入；
 2、申请单SpecimenType：UnstainedSlides，系统默认录入为切片","1、需双提
